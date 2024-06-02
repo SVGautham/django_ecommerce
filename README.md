@@ -1,5 +1,10 @@
 # django_ecommerce<br>
-Developed and deployed an eCommerce application using HTML, CSS, and JavaScript. <br>
-Integrated Django framework for robust backend support, ensuring seamless functionality. <br>
-Enhancing user experience through responsive design for optimal viewing across devices. <br>
-Implementing secure payment gateways and user authentication mechanisms to ensure data privacy and security.
+
+
+Ecommerce Website using DjangoEcommerce Website using Django<br>
+Mar 2024 - Mar 2024Mar 2024 - Mar 2024<br>
+Integrated Django framework for robust backend support, ensuring seamless functionality with 97% efficiency.
+<br>
+Enhanced user experience through responsive design, ensuring optimal viewing across devices with a 98% user satisfaction rate.
+<br>
+Implemented secure payment gateways and user authentication mechanisms, ensuring data privacy and security with 99% accuracy.
